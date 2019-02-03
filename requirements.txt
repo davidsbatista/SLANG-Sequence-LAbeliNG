@@ -1,0 +1,11 @@
+nltk
+beautifulsoup4
+coverage
+flake8
+gensim
+keras
+numpy
+pytest
+scikit-learn
+sklearn-crfsuite
+tensorflow
