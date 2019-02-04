@@ -30,14 +30,6 @@ def main():
     # trainer = Trainer(cintil)
     # trainer.train_and_evaluate(epochs=1)
 
-    # Comtravo
-    # comtravo = CorpusProcessing(corpus='comtravo')
-    # comtravo.process("datasets/Comtravo/")
-    # print(len(comtravo.train_tokens))
-    # print(len(comtravo.train_tags))
-    # print(comtravo.max_sent_length)
-    # print(comtravo.max_word_length)
-
     # trainer = Trainer(comtravo)
     # trainer.cross_fold_evaluation(epochs=5)
 
