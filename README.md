@@ -8,3 +8,7 @@ Implementation in Keras of some papers for sequence labelling tasks such as Name
 - ["End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF" (Ma und Havoy 2016)](http://www.aclweb.org/anthology/P16-1101)
 
 This is code that I hope to continue improving, there are still a few TODOs.
+
+You can read more about these methods on the following blog post:
+
+[Named-Entity Recognition based on Neural Networks](http://www.davidsbatista.net/blog/2018/10/22/Neural-NER-Systems/)
