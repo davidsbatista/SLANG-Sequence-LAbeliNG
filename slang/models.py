@@ -10,7 +10,7 @@ from keras_contrib.layers import CRF
 from keras.models import model_from_json
 
 
-# ToDO: save/load like in anago
+# ToDO: improve save/load method
 
 def save_model(model, weights_file, params_file):
     with open(params_file, 'w') as f:
