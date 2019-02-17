@@ -9,6 +9,6 @@ Implementation in Keras of some papers for sequence labelling tasks such as Name
 
 This is code that I hope to continue improving, there are still a few TODOs.
 
-You can read more about these methods on the following blog post:
+You can read a more detailed description and explanation about these methods on the following blog post:
 
-[Named-Entity Recognition based on Neural Networks](http://www.davidsbatista.net/blog/2018/10/22/Neural-NER-Systems/)
+- [Named-Entity Recognition based on Neural Networks (www.davidsbatista.net)](http://www.davidsbatista.net/blog/2018/10/22/Neural-NER-Systems/)
