@@ -1,4 +1,4 @@
-# SLANG	Sequence LAbeliNG
+# SLANG::Sequence LAbeliNG
 
 Implementation in Keras of some papers for sequence labelling tasks such as Named-Entity Recognition or Part-of-Speech tagging. Currently implementing the following papers:
 
